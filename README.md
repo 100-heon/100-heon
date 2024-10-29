@@ -3,6 +3,7 @@
 # Hello! I'm a Korean who studied in China during childhood and am fluent in Chinese.
 
 University: Soongsil University
+
 Graduate Program: Soongsil University, ADSL (Advanced Data Science Lab)
 
 
