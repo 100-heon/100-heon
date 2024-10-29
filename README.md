@@ -12,9 +12,13 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">👀 My Project </h2>
 <div style="margin: ; text-align: left;" "text-align: left;"> 
-    <img href="https://velog.io/@100-heon/posts" src="https://img.shields.io/badge/Velog- 20C997?style=plastic&logo=Velog&logoColor=white">
-<img href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2" src="https://img.shields.io/badge/Instagram- E4405F?style=plastic&logo=Instagram&logoColor=white">
-          </div>
+        <a href="https://velog.io/@100-heon/posts">
+          <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white" alt="Velog">
+        </a>
+        <a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> 
