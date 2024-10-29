@@ -1,5 +1,10 @@
 ## hello, 안녕하세요, 你好 👋
-I'm a person who codes as a hobby and aspires to code professionally. Currently, I've graduated from Soongsil University and am pursuing a graduate degree in the Data Science Lab at Soongsil University.
+
+# Hello! I'm a Korean who studied in China during childhood and am fluent in Chinese.
+
+University: Soongsil University
+Graduate Program: Soongsil University, ADSL (Advanced Data Science Lab)
+
 
 # contact me
 <a href="https://velog.io/@100-heon/posts" target="_blank"><img src="https://img.shields.io/badge/velog-white?style=plastic&logo=Velog&logoColor=#000000"/></a>
