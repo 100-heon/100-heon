@@ -51,7 +51,7 @@
 - 👯 I’m looking to collaborate on projects that combine data science and creative coding.
 - 🤔 I’m looking for help with refining my understanding of advanced facial animation techniques.
 - 💬 Ask me about data science, coding hobbies, or studying in China.
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Instagram <br />
   <a href="https://velog.io/@100-heon/posts"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" alt="Instagram"></a>
 
 - ⚡ Fun fact: I learned Chinese while studying abroad as a child and can also code in three languages!
