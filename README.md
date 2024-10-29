@@ -51,14 +51,14 @@
     </div>
 
 
-🔭 I’m currently working on pose modeling and facial animation projects.
-🌱 I’m currently learning deep learning models such as MLP, CNN, and GNN.
-👯 I’m looking to collaborate on projects that combine data science and creative coding.
-🤔 I’m looking for help with refining my understanding of advanced facial animation techniques.
-💬 Ask me about data science, coding hobbies, or studying in China.
-📫 How to reach me: Instagram | Velog
-😄 Pronouns: he/him
-⚡ Fun fact: I learned Chinese while studying abroad as a child and can also code in three languages!
+-🔭 I’m currently working on pose modeling and facial animation projects.
+-🌱 I’m currently learning deep learning models such as MLP, CNN, and GNN.
+-👯 I’m looking to collaborate on projects that combine data science and creative coding.
+-🤔 I’m looking for help with refining my understanding of advanced facial animation techniques.
+-💬 Ask me about data science, coding hobbies, or studying in China.
+-📫 How to reach me: Instagram | Velog
+-😄 Pronouns: he/him
+-⚡ Fun fact: I learned Chinese while studying abroad as a child and can also code in three languages!
 
 
 
