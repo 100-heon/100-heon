@@ -1,7 +1,7 @@
 ## hi, 안녕하세요, 你好 👋
 
 
-<div align= "center": style="text-align: left;">>
+<div align= "center": style="text-align: left;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&text=hello%20AI%20!&animation=twinkling&fontColor=000000&fontSize=70"> </div>
         University: Soongsil University <br />
         Graduate Program: Soongsil University <br />
