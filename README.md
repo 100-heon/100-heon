@@ -4,7 +4,6 @@
 
 
 <div align= "center">
-Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&text=hello%20AI%20!&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
