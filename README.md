@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://velog.io/@100-heon/posts" target="_blank"><img src="https://img.shields.io/badge/velog-black?style=for-the-badge&logo=Velog&logoColor=#000000"/></a>
-<a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2" target="_blank"><img src="https://img.shields.io/badge/instargram-black?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2" target="_blank"><img src="https://img.shields.io/badge/instargram-black?style=for-the-badge&logo=Instagram&logoColor=#000000"/></a>
 <!--
 **100-heon/100-heon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
