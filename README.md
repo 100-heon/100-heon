@@ -1,7 +1,7 @@
-## Hi 👋
+## hello, 안녕하세요, 你好 👋
+I'm a person who codes as a hobby and aspires to code professionally. Currently, I've graduated from Soongsil University and am pursuing a graduate degree in the Data Science Lab at Soongsil University.
 
 # contact me
-
 <a href="https://velog.io/@100-heon/posts" target="_blank"><img src="https://img.shields.io/badge/velog-white?style=plastic&logo=Velog&logoColor=#000000"/></a>
 <a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2" target="_blank"><img src="https://img.shields.io/badge/instargram-black?style=plastic&logo=Instagram&logoColor=#000000"/></a>
 <!--
