@@ -1,10 +1,12 @@
 ## hello, 안녕하세요, 你好 👋
 
-# Hello! I'm a Korean who studied in China during childhood and am fluent in Chinese.
+I'm a person of many hobbies. 
 
 University: Soongsil University
 
 Graduate Program: Soongsil University, ADSL (Advanced Data Science Lab)
+
+Languages: Korean, Chinese, English (intermediate)
 
 Please check out my Velog
 # contact me
