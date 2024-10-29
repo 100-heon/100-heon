@@ -60,7 +60,7 @@
   <a href="https://velog.io/@100-heon/posts">
           <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white" alt="Velog">
         </a>
-        <a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2">
+  <a href="https://www.instagram.com/100_heon/profilecard/?igsh=dXE0aXlsb290NnV2">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white" alt="Instagram">
         </a>
 - ⚡ Fun fact: I learned Chinese while studying abroad as a child and can also code in three languages!
