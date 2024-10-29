@@ -1,15 +1,15 @@
 ## hello, 안녕하세요, 你好 👋
 
 
-University: Soongsil University
+
+
+<div align= "center">University: Soongsil University
 
 Graduate Program: Soongsil University, ADSL (Advanced Data Science Lab)
 
 Languages: Korean, Chinese, English (intermediate)
 
 Here are some ideas to get you started:
-
-<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=180&text=hello%20AI%20!&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
